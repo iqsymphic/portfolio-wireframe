@@ -16,7 +16,7 @@ body {
   padding-bottom: 20px;
   width: 100%;
   text-align: right;
-  background: #bfc1d2;
+  background: #0d0d0e;
 }
 
 .topnav #myLinks {
@@ -26,7 +26,7 @@ body {
 
 .topnav a {
   text-decoration: none;
-  color: #172a3a;
+  color: #ffffff;
   padding-right: 15px;
 }
 
@@ -86,7 +86,7 @@ p {
   display: inline-block;
   font-size: 16px;
   line-height: 30px;
-  color: #6f4b66;
+  color: #000000;
   width: 75%;
 }
 
@@ -111,7 +111,7 @@ p {
 .project a {
   text-decoration: none;
   display: block;
-  color: #646f4b;
+  color: #000000;
   margin: 10px 0;
 }
 
@@ -120,7 +120,7 @@ p {
 }
 
 .contact {
-  background-color: #839d9a;
+  background-color: #808080;
   color: white;
 }
 
@@ -144,7 +144,7 @@ ul li {
 
 footer {
   height: 30px;
-  background-color: #839d9a;
+  background-color: #808080;
   color: white;
 }
 
